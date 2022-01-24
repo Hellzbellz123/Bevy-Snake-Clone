@@ -1,4 +1,4 @@
-use bevy::{prelude::*, reflect::erased_serde::private::serde::de};
+use bevy::{prelude::*};
 
 #[derive(Component)]
 struct SnakeHead;
